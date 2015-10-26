@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WorldExplorer",
+  "name": "The World Explorer",
+  "description": "Provides you with items, that will aid you in your adventures to find resources, establish settlements, protect (or raid) villages, build forts and whatever you feel like in your world",
+  "version": "0.0.1 Alpha",
+  "mcversion": "1.8",
+  "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2326021-the-world-explorer-mod",
+  "updateUrl": "",
+  "authorList": ["Winter_Grave"],
+  "credits": "Winter C. Grave",
+  "logoFile": "worldexplorer.log",
+  "screenshots": [],
+  "dependencies": []
+}
+]
