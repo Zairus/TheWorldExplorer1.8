@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"facing=east": {
+			"model": "worldexplorer:BlockStudyDesk",
+			"y": 270
+		},
+		"facing=south": {
+			"model": "worldexplorer:BlockStudyDesk",
+			"y": 0
+		},
+		"facing=west": {
+			"model": "worldexplorer:BlockStudyDesk",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "worldexplorer:BlockStudyDesk",
+			"y": 180
+		}
+    }
+}
