@@ -8,6 +8,13 @@
 :deobfCompileDummyTask
 :deobfProvidedDummyTask
 :eclipseClasspath
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.17/authlib-1.5.17.pom
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.17/authlib-1.5.17.jar
+Download https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar
+Download https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2-sources.jar
+Download https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6-sources.jar
+Download https://repo1.maven.org/maven2/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final-sources.jar
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.17/authlib-1.5.17-sources.jar
 :eclipseJdt
 :eclipseProject
 :getVersionJson
@@ -15,7 +22,7 @@
 :extractUserdev UP-TO-DATE
 :getAssetIndex UP-TO-DATE
 :getAssets
-Current status: 535/734   72%
+Current status: 725/734   98%
 :makeStart
 [ant:javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
 [ant:javac] 1 warning
@@ -25,4 +32,4 @@ Current status: 535/734   72%
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 47.705 secs
+Total time: 35.253 secs
